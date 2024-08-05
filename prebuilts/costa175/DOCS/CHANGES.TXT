@@ -1,0 +1,15 @@
+
+                         The Costa GUI, version 1.7.5
+                               By Jacob Palm                   
+
+                                 Changelog
+
+Costa 1.7.5 is a minor release, with few enhancements. Most notable is the
+ability to move icons between desktops, without having to delete and recreate
+them.
+  -Icons can now be moved between desktops
+  -Desktops can be switched using the 1-5 keys on the keyboard, for faster
+   access than cycling through them
+  -A bunch of new icons added
+
+For older versions, see the complete changelog at https://costa.jacobpalm.dk
